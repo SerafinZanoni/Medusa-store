@@ -40,7 +40,7 @@ Bienvenido a **Medusa Store**, un ecommerce basado en **Medusa.js**, diseñado p
 
 4. **Iniciar el servidor**  
    ```bash
-   npm run develop
+   npm run dev
    ```
 
 ## 📌 Uso  
@@ -56,5 +56,5 @@ Este proyecto está bajo la licencia **MIT**.
 
 ---  
 
-📩 **Contacto:** [Tu Email] | 🌍 [Tu Web]
+📩 **Contacto:** serazanoni@gmail.com | 
 
